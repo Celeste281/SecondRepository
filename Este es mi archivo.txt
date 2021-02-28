@@ -3,5 +3,6 @@ Este es mi archivo
 Que tiene muchas lineas
 
 Linea 1
+Linea 2
 
-Versión1
+Versión 2
