@@ -1,11 +1,7 @@
 Este es mi archivo
 
-Que tiene muchas palabras
+Que tiene muchas lineas
 
-invifs oifh vs hsi dsofsd vfsan.
-iudgbjbsllnvlnvs sjlnnjñ sjjfkdlskl  djfldkla vslvlvnldknldk
-slcllsclskcdllcmlkvlnvds.
+Linea 1
 
-Hoy hablaremos de mi
-
-y mi historia
+Versión1
