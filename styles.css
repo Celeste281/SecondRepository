@@ -10,7 +10,7 @@ body
 }
 header
 {
-    height: 100px;
+    height: 80px;
     background-color:crimson;
 }
 section
@@ -19,15 +19,28 @@ section
     background-color: blue;
     display: flex;
     flex-direction: row;
-    justify-content: center;
 }
-#h4Centro
+#h2Centro
 {   
     color:cornsilk;
     align-self: center;
 }
-#h3Cabeza
+#h1Cabeza
 {
     text-align: center;
     color:rgb(255, 255, 255);
+}
+#h3Footer
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #111;
+    height: auto;
+    width: 100vw;
+    padding-top: 10px;
+    color: #fff;
+    text-align: center;
+    margin: 0;
 }
